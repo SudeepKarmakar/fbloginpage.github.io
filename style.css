@@ -1,0 +1,53 @@
+#sec1{
+    text-align: left;
+}
+h1{
+    color: rgb(7, 100, 249);
+    font-size: 50px;
+}
+h3{
+    font-family: Calibri;
+    font-size: 30px;
+    word-spacing: 7px;
+}
+#sec2{
+    text-align: left;
+
+}
+.mb-3 input{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#btn1 button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.forget{
+    text-align: center;
+    font-size: 17px;
+    letter-spacing: 2px;
+    color: rgb(7, 100, 249);
+    word-spacing: 5px;
+}
+.forget a{
+    text-decoration: none;
+}
+.forget a:hover{
+    color: rgb(235, 79, 32);
+}
+#btn2{
+
+    font-size: 20px;
+}
+.last{
+    text-align: center;
+    margin-top: -35px;
+    margin-left : 45px;
+    margin-right: -50px;
+}
+#bdr{
+    border: 1px solid rgba(190, 159, 159, 0.366) ;
+    margin-right: -100px;
+}
